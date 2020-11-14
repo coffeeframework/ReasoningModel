@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	
 	<name>reasoningmodel</name>
-	<description>Libraries called by the Reasoning Controllerl</description>
+	<description>Libraries called by the Reasoning Controller</description>
 	<url>https://github.com/coffeeframework/ReasoningModel</url>
 	
 	<licenses>
@@ -30,7 +30,7 @@
 	
 	<build>
 		<sourceDirectory>src</sourceDirectory>
-		<testSourceDirectory>test</testSourceDirectory>
+<!-- 		<testSourceDirectory>test</testSourceDirectory> -->
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
